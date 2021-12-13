@@ -1,0 +1,7 @@
+.card_task {
+  display: flex;
+  justify-content: center;
+  margin: 0px auto;
+
+  width: 800px;
+}

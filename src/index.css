@@ -1,0 +1,10 @@
+body {
+  background: url(https://image.freepik.com/photos-gratuite/fleur-papier-arriere-plan-bois-vue-dessus_117856-1475.jpg)
+    no-repeat center fixed;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

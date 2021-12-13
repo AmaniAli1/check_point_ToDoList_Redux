@@ -1,0 +1,9 @@
+.input_task {
+  width: 600px;
+  display: flex;
+  justify-items: center;
+  margin: 30px auto;
+}
+.title {
+  padding: 30px 0px;
+}
